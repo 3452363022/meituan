@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3804ff6e.css",
+    "main.js": "/static/js/main.fc0cad61.js",
+    "static/media/外卖.svg": "/static/media/外卖.e6dc2291b059b489b52a.svg",
+    "static/media/外卖激活.svg": "/static/media/外卖激活.51f281d08c9686b0b5ad.svg",
+    "static/media/加号.svg": "/static/media/加号.741bac18e34826c0a52e.svg",
+    "index.html": "/index.html",
+    "static/media/减号.svg": "/static/media/减号.cfbbd47258a7fdddd43f.svg",
+    "main.3804ff6e.css.map": "/static/css/main.3804ff6e.css.map",
+    "main.fc0cad61.js.map": "/static/js/main.fc0cad61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3804ff6e.css",
+    "static/js/main.fc0cad61.js"
+  ]
+}
